@@ -617,6 +617,10 @@ footer {
 
 /* Responsive adjustments for mobile */
 @media (max-width: 767px) {
+  header {
+    padding-top: 45px;
+  }
+
   .sidebar-filters {
     margin-bottom: 15px;
   }
